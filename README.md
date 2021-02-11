@@ -1,5 +1,5 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=glaucia86.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/glaucia86?style=social)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wagnerbsjunior.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/wagnerbsjunior?style=social)
 
 ## Bio - Yesss, my bio!!! 👋
 Wagner Barros is Software Engineer, + than 20 years in software development and IT projects.
