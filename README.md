@@ -34,6 +34,9 @@ Recently developing more than ever and learning so much cool things, that I've d
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbsjunior&hide=css,java,html&theme=tokyonight">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **wagnerbsjunior/wagnerbsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
