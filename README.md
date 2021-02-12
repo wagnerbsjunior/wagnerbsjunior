@@ -35,6 +35,9 @@ Recently developing more than ever and learning so much cool things, that I've d
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
