@@ -36,7 +36,8 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         36 mins         ██████████████████░░░░░░░   72.48 % 
+TypeScript   14 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
 ```
 <!--END_SECTION:waka-->
 
