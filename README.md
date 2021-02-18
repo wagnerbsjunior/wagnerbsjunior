@@ -36,11 +36,11 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-HTML         2 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.85 % 
-Vue.js       1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-TypeScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Docker       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Vue.js       4 hrs 30 mins   ███████████░░░░░░░░░░░░░░   43.48 % 
+HTML         2 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+JavaScript   1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+TypeScript   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Docker       24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 <!--END_SECTION:waka-->
 
