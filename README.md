@@ -1,10 +1,10 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wagnerbsjunior.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/wagnerbsjunior?style=social)
 
-## Bio - Yesss, my bio!!! 👋
+## Bio - Yeah, my bio!!! 👋
 Wagner Barros is Software Engineer, + than 20 years in software development and IT projects.
 
-Almost of these years, i've being helping teams with agile development methodologies and providing management project skills to achieve businesses goals.
+Along that way, i've been helping teams with agile development methodologies and providing management project skills to achieve businesses goals.
 
 Recently developing more than ever and learning so much cool things, that I've decided to share part of this working.
 
