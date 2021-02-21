@@ -36,11 +36,11 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       6 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   40.68 % 
-HTML         2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-JavaScript   1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-TypeScript   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Vue.js       5 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   31.69 % 
+HTML         4 hrs 36 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+TypeScript   2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+JavaScript   1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+JSON         54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 <!--END_SECTION:waka-->
 
