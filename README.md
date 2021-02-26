@@ -36,11 +36,11 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-HTML         6 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.12 % 
-TypeScript   5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-SCSS         3 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-JSON         2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Vue.js       1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+HTML         6 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+TypeScript   5 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 % 
+SCSS         3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 % 
+JSON         1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+C#           26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 <!--END_SECTION:waka-->
 
