@@ -36,11 +36,11 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-XML          8 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.33 % 
-Java         5 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-TypeScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Properties   1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-YAML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+XML          8 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.44 % 
+Java         5 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+TypeScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Properties   1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+YAML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 ```
 <!--END_SECTION:waka-->
 
