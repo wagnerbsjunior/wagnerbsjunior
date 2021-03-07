@@ -36,11 +36,7 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-XML          2 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.32 % 
-Java         1 hr 42 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
-YAML         1 hr 5 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Properties   48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
