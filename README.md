@@ -36,7 +36,7 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-HTML   9 mins          █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
