@@ -36,8 +36,7 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-YAML   26 mins         ████████████████████████░   95.56 % 
-Java   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+YAML   26 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
