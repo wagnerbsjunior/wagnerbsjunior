@@ -36,7 +36,7 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+XML    2 mins          █████████████████████████   99.36 % 
 ```
 <!--END_SECTION:waka-->
 
