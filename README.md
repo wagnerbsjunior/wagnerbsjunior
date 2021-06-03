@@ -36,7 +36,7 @@ Recently developing more than ever and learning so much cool things, that I've d
 
 <!--START_SECTION:waka-->
 ```text
-Java   9 mins          █████████████████████████   99.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
